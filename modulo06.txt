@@ -1,0 +1,16 @@
+1 - Acordo, abro os olhos
+2 - Levanto da cama
+3 - Push no podeiro
+ // Se tiver sem bateria
+  1 - Coloco pra carregar
+  2 - Espero 5min, e puxo ate desmaiar
+  3 - Se tiver gostoso, puxo durante 30min
+ // Se tiver com bateria
+  1 - Se tiver gostoso, puxo durante 30min 
+4 - Vou em direcao ao banheiro
+5 - Coloco a mao na macaneta
+6 - Giro 360 graus
+7 - Abro a porta e entro
+8 - Retiro o penis pra fora e urino
+9 - Fecha a tampa
+10 - Descarga
